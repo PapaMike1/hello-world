@@ -1,2 +1,2 @@
 # hello-world
-folders and files, images, videos, spreadsheets, and data sets – anything your project needs
+This is the place for folders, files, images, videos, spreadsheets, and data sets – anything a project needs
